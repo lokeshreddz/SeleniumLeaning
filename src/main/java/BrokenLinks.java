@@ -28,7 +28,8 @@ public class BrokenLinks {
 
         Iterator<WebElement> it = links.iterator();
 
-            //while (it.hasNext())
+        driver.get(homepage);
+
 
 
     }
